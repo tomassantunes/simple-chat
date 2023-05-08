@@ -20,6 +20,9 @@ If you wish to open more clients, just execute:
 ```
 
 The first message written by a client will be used for the client username.
+```
+username
+```
 
 If you wish to send a message to specific user:
 ```
